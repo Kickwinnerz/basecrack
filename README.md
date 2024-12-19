@@ -49,7 +49,7 @@ For a basic demo, try the [Web Interface](https://basecrack.herokuapp.com/) that
 
 ## Installation
 
-    $ git clone https://github.com/mufeedvh/basecrack.git
+    $ git clone https://github.com/Kickwinnerz/basecrack.git
     $ cd basecrack
     $ pip3 install -r requirements.txt
     $ python3 basecrack.py -h
